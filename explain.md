@@ -77,3 +77,5 @@ class Squre {
 }
 
 let square = new Squre( 5, 10); 
+
+---
